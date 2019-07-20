@@ -16,7 +16,7 @@ eureka:
 spring:
   profiles: test
   application:
-    name: config-server-test2
+    name: config-server-test
 server:
   port: 8774
 eureka:
