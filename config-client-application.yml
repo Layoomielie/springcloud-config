@@ -18,7 +18,7 @@ spring:
   application:
     name: config-server-test
 server:
-  port: 8774
+  port: 8775
 eureka:
   client:
     serviceUrl:
